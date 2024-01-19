@@ -67,7 +67,10 @@ main h2 {
         background-color: #FF7F00;
         border-radius: 0.5rem;
         text-align: center;
-        height: 2rem;
+        height: 2.5rem;
+        padding-left: 19px;
+        color: white;
+        font-size: 1rem;
 }
 
 main p {
