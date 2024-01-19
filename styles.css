@@ -53,10 +53,11 @@ main h2 {
 }
 
 .texto_comprobar {
-        display: flex;
+       /*  display: flex; */
         width: 89%;
         border-radius: 0.5rem;
         height: 1.5rem;
+        padding-left: 1.2rem;
 }
 
 .boton_comprobar {
