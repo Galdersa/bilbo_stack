@@ -52,12 +52,18 @@ main h2 {
         
 }
 
+form {
+        display: block;
+        justify-content: center;
+}
+
 .texto_comprobar {
        /*  display: flex; */
-        width: 89%;
+        width: 100%;
+/*         margin-right: 0.5rem; */
         border-radius: 0.5rem;
         height: 1.5rem;
-        padding-left: 1.2rem;
+/*         padding-left: 1.2rem; */
 }
 
 .boton_comprobar {

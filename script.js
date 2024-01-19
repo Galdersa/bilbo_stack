@@ -1,4 +1,5 @@
-function validateForm() {
+function validateForm(event) {
+  event.preventDefault();
     let x = document.forms["myForm"]["fname"].value;
     /* let text=x.toLowerCase(); */
     if (x == "No te rindas") {
