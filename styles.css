@@ -39,8 +39,35 @@ main h2 {
         justify-content: center;
         background-image: url(img/computer.webp);
         background-repeat: no-repeat;
-        background-size:130%;
+        background-size:150%;
         background-blend-mode:difference;
+}
+
+.resp_cast {
+        font-size: 1.3rem;
+        /* background-color: #FF7F00; */
+        border-radius: 0.5rem;
+        text-align: center;
+        /* color: #FF7F00; */
+        
+}
+
+.texto_comprobar {
+        display: flex;
+        width: 89%;
+        border-radius: 0.5rem;
+        height: 1.5rem;
+}
+
+.boton_comprobar {
+        display: flex;
+        flex-wrap: wrap;        
+        width: 50%;
+        margin-top: 0.5rem;
+        background-color: #FF7F00;
+        border-radius: 0.5rem;
+        text-align: center;
+        height: 2rem;
 }
 
 main p {
